@@ -5,7 +5,7 @@ Steward is a small, easily deployed script for network speed evaluation purposes
 It is meant to easily monitor your network and send the measurements to an [InfluxDB](https://www.influxdata.com/products/influxdb-overview/).
 Then using [Chronograf](https://www.influxdata.com/time-series-platform/chronograf/) we can easily visualize the measurements.
 
-![Example](images/Screenshot_2020-11-01 Chronograf.png)
+![Example](https://raw.githubusercontent.com/gph03n1x/Steward/main/images/Screenshot_2020-11-01%20Chronograf.png)
 
 The whole project was inspired from [this article](http://www.pibits.net/learning/how-to-measure-internet-speed-in-python-using-speedtest.php)
 
